@@ -1,6 +1,12 @@
 ### James Yoo - Robotics/Simulation Software Engineer 👋
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=C%2B%2B&logoColor=white">
-
+  
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-yoo&show_icons=true&theme=radical)
+  
+ - 😄 I have a huge interest in photorealistic simlation tech. for robotics.
+ - 🔭 I believe the Generative AI and the Reinforcement Learning will play a key role in robotics domain.
+ - ✨ Autonomous driving/navigation tech. and system is my playground.
+ - 🌱 I love to contribute ROS 2 ecosystem.
 <!--
 **james-yoo/james-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
