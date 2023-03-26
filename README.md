@@ -1,5 +1,6 @@
 ### James Yoo - Robotics/Simulation Software Engineer 👋
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=C%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=C%2B%2B&logoColor=white">
+
 <!--
 **james-yoo/james-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
